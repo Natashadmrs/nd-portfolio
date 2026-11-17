@@ -10,4 +10,5 @@ Developing skills:
 - Communication
 
 **Projects**
+
 Projects in progress- check back soon!
