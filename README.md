@@ -1,5 +1,5 @@
 # nd-portfolio
-**Natasha Demers**
+# **Natasha Demers**
 First year data science major at Oregon State University excited to learn to use data for actionable insights! 
 
 Developing skills:
@@ -9,6 +9,5 @@ Developing skills:
 - Teamwork
 - Communication
 
-**Projects**
-
+# **Projects**
 Projects in progress- check back soon!
